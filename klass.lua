@@ -47,6 +47,11 @@ function klass:isinstance(c)
 end
 
 ---
+-- @param ...
+function klass:init(...)
+end
+
+---
 -- @treturn string
 function klass:__tostring()
 	return "<"..tostring(self.__name)..">"
