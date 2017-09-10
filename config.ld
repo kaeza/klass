@@ -7,3 +7,8 @@ file = {
 		"init.lua",
 	},
 }
+
+topics = {
+	"README.md",
+	"LICENSE.md",
+}
