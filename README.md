@@ -17,6 +17,11 @@ use it both in Free and closed source software. See `LICENSE.md` for details.
 The API documentation is generated using [LDoc][LDoc], and is available
 [here][apidocs].
 
+## Links
+
+* Download development version: [`.zip`][devzip], [`.tar.gz`][devtgz].
+* [Project page][repo] at Github.
+
 ## Examples
 
     local klass = require "klass"
@@ -54,3 +59,6 @@ The API documentation is generated using [LDoc][LDoc], and is available
 [Lua]: http://lua.org
 [LDoc]: https://github.com/stevedonovan/LDoc
 [apidocs]: https://kaeza.github.io/luadocs/klass/
+[devzip]: https://github.com/kaeza/lua-klass/archive/master.zip
+[devtgz]: https://github.com/kaeza/lua-klass/archive/master.tar.gz
+[repo]: https://github.com/kaeza/lua-klass
