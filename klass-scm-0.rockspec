@@ -3,12 +3,12 @@ package = "klass"
 version = "scm-0"
 
 source = {
-   url = "http://github.com/kaeza/lua-klass/archive/master.tar.gz",
+   url = "git://github.com/kaeza/klass",
 }
 
 description = {
 	summary = "Minimalistic class system.",
-	homepage = "http://github.com/kaeza/lua-klass",
+	homepage = "http://github.com/kaeza/klass",
 	license = "MIT",
 }
 

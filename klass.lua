@@ -6,9 +6,6 @@
 -- @author Diego Martínez <https://github.com/kaeza>
 -- @license MIT. See `LICENSE.md` for details.
 
-local setmetatable, rawequal, pairs, tostring =
-      setmetatable, rawequal, pairs, tostring
-
 local klass = { }
 klass.__index = klass
 
@@ -96,7 +93,7 @@ end
 -- It should be overridden in subclasses to do something useful.
 --
 -- @param ... Arguments passed to `__call`.
-function klass:init(...)
+function klass:init(...) -- luacheck: ignore
 end
 
 ---

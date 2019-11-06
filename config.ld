@@ -1,4 +1,5 @@
 
+project = "klass"
 format = "markdown"
 
 file = {

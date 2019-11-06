@@ -14,8 +14,7 @@ use it both in Free and closed source software. See `LICENSE.md` for details.
 
 ## API Documentation
 
-The API documentation is generated using [LDoc][LDoc], and is available
-[here][apidocs].
+The API documentation is generated using [LDoc][LDoc].
 
 ## Links
 
@@ -56,9 +55,8 @@ The API documentation is generated using [LDoc][LDoc], and is available
 
     print(t5.x) --> Base: 1
 
-[Lua]: http://lua.org
+[Lua]: https://lua.org
 [LDoc]: https://github.com/stevedonovan/LDoc
-[apidocs]: https://kaeza.github.io/luadocs/klass/
-[devzip]: https://github.com/kaeza/lua-klass/archive/master.zip
-[devtgz]: https://github.com/kaeza/lua-klass/archive/master.tar.gz
-[repo]: https://github.com/kaeza/lua-klass
+[devzip]: https://github.com/kaeza/klass/archive/master.zip
+[devtgz]: https://github.com/kaeza/klass/archive/master.tar.gz
+[repo]: https://github.com/kaeza/klass
